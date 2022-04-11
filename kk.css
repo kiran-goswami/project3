@@ -1,0 +1,105 @@
+@media only screen and (min-width:268px)
+{
+    hr{
+        width:auto auto;
+    }
+}
+hr{
+    width:100px;
+    position: relative;
+    top:45px;
+    left:-140px;
+}
+@media only screen and (min-width:286px)
+{
+    .pp{
+        width:auto auto;
+    }
+}
+.pp{
+    width:100px;
+    position: relative;
+    top:-37px;
+    left:150px;
+}
+@media only screen and (min-width:286px)
+{
+    i{
+        width:auto auto;
+    }
+}
+i{
+    font-size: 25px;
+    color:red;
+}
+@media only screen and (min-width:286px)
+{
+    .jump{
+        width: auto auto;
+        
+    }
+}
+.jump{
+    border:2px solid grey;
+    border-radius:5%;
+    box-shadow: 5px 5px rgb(203, 179, 179);
+    width:250px;
+    height:400px;
+    text-align:center;
+   margin-top:  auto 80px;
+   font-size: 25px;
+   color:red;
+}
+@media only screen and (min-width:286px)
+{
+    .mm{
+        width: auto auto;
+    }
+}
+.mm{
+    width:190px;
+    position: relative;
+    top:1px;
+    left:28px;
+}
+@media only screen and (min-width:286px)
+{
+    b{
+        width:auto auto;
+    }
+}
+b{
+    color:black;
+    font-size: 20px;
+    margin-left: 8px;
+}
+@media only screen and (min-width:286px)
+{
+    .abc{
+        width:auto auto;
+    }
+}
+.abc{
+    color:black;
+}
+@media only screen and (min-width:286px)
+{
+.text{
+    width:auto auto;
+}
+}
+.text{
+    text-decoration: line-through;
+}
+@media only screen and (min-width:286px)
+{
+.gum{
+    width: 100px;
+}
+}
+.gum{
+    font-size: 40px;
+    position: relative;
+    top:-60px;
+    margin-left: 140px;
+}
